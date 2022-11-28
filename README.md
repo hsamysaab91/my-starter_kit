@@ -1,4 +1,4 @@
-# SharePoint Starter Kit v2
+# SharePoint Starter Kit vSaab
 
 The SharePoint Starter Kit (starter kit) is a comprehensive solution designed for SharePoint Online and SharePoint 2019 which provides numerous SharePoint Framework (SPFx) web parts, extensions, and other components, as well as [PnP PowerShell](https://github.com/pnp/powershell) driven provisioning which you can use as an example and inspiration for your own customizations. 
 
